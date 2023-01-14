@@ -11,5 +11,5 @@
 -->
 
 <a href="https://www.linkedin.com/in/xenophon-simos-tsachidis-0538ab1ba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenofront&count_private=true&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenofront&count_private=true" />
 </a>
